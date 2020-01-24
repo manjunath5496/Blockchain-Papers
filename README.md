@@ -76,7 +76,7 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Blockchain-Papers/blob/master/blk(44).pdf" style="text-decoration:none;">Perun: Virtual Payment Hubs over Cryptocurrencies</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Blockchain-Papers/blob/master/blk(45).pdf" style="text-decoration:none;">Concurrency and Privacy with Payment-Channel Networks</a></b></li>  
    
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Blockchain-Papers/blob/master/blk(46).pdf" style="text-decoration:none;">Revive: Rebalancing O-Blockchain Payment Networks</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Blockchain-Papers/blob/master/blk(46).pdf" style="text-decoration:none;">Revive: Rebalancing Off-Blockchain Payment Networks</a></b></li> 
                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Blockchain-Papers/blob/master/blk(47).pdf" style="text-decoration:none;">Non-Interactive Proofs of Proof-of-Work</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Blockchain-Papers/blob/master/blk(48).pdf" style="text-decoration:none;">Scalable, transparent, and post-quantum secure computational integrity</a></b></li>
